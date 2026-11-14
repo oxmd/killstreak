@@ -33,3 +33,5 @@ Alias: `/ks`, `/killstreak`
 - Smrt způsobená jiným hráčem resetuje streak oběti.
 - Smrt bez PvP killu streak neresetuje.
 - Milníky jsou ve výchozím nastavení 3, 5, 10, 15 a 20.
+
+https://modrinth.com/plugin/kadly-killstreak
