@@ -1,1 +1,17 @@
+# KillStreaks 1.0 configuration
 
+messages:
+  prefix: "&8[&bKillStreaks&8] "
+  own-streak: "&7Tvůj aktuální KillStreak: &b%streak%"
+  other-streak: "&7KillStreak hráče &b%player%&7: &b%streak%"
+  no-permission: "&cNa zobrazení streaku ostatních hráčů nemáš oprávnění."
+  player-not-found: "&cTento hráč nebyl nalezen."
+  player-kill: "&b%killer% &7zabil hráče &c%victim%&7. &8(&b%streak% KillStreak&8)"
+  milestone: "&b%player% &7dosáhl KillStreaku &e%streak%&7!"
+
+milestones:
+  - 3
+  - 5
+  - 10
+  - 15
+  - 20

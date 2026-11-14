@@ -1,0 +1,17 @@
+name: KillStreaks
+version: 1.0.0
+main: cz.kadly.killstreaks.KillStreaks
+api-version: '1.21.11'
+author: Kadly
+description: Simple kill streak plugin
+
+commands:
+  streak:
+    description: Shows your kill streak or another player's streak.
+    usage: /streak [player]
+    aliases: [ks, killstreak]
+
+permissions:
+  killstreaks.admin:
+    description: Allows viewing another player's kill streak.
+    default: op
